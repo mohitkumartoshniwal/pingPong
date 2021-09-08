@@ -14,7 +14,7 @@ const gameCodeInput = document.getElementById('gameCodeInput');
 const gameCodeDisplay = document.getElementById('gameCodeDisplay');
 const GameCode = document.getElementById('GameCode');
 const scoreCard = document.getElementById('scoreBoard');
-const socket = io('http://localhost:3000');
+const socket = io('https://desolate-beach-25159.herokuapp.com/');
 
 socket.on('init', handleInit);
 socket.on('gameState', handleGameState);
