@@ -62,5 +62,5 @@ Right click on index.html and start a live server.
 
   ## Documentation
 
-  [socket.io rooms](https://socket.io/docs/v3/rooms/index.html) to establish connection between from frontend and the server.
+  [socket.io rooms](https://socket.io/docs/v3/rooms/index.html) to establish connection between frontend and the server.
   
